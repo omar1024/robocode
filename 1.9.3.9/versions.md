@@ -1,1 +1,0 @@
-/usr/share/games/robocode/versions.md
